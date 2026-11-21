@@ -12,7 +12,7 @@
 * **Institution:** Geethanjali College of Engineering and Technology
 * **Team Members:** 
   1. **Y. Varun Kumar** (Team Lead, AI Chat Connection, Frontend & Dashboard, Testing)
-  2. **Varun Tej** (Task & Schedule Logic, Testing & Documentation, Planning)
+  2. **Varun Tej** (Task & Schedule Logic, Fullstack developer, Planning)
 * **Contact Number:** +91-9177644496
 * **Date:** 16/11/2026
 * **Live Deployment URL:** `https://nexus-ai-smart-cities.onrender.com`
